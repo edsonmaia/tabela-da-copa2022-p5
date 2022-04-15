@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "rodada": "Oitavas de final 1",
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "1A x 2B",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 2,
+        "rodada": "Oitavas de final 2",
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "16:00",
+        "estadio": "AL RAYYAN",
+        "partida": "1C x 2D",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 3,
+        "rodada": "Oitavas de final 3",
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "12:00",
+        "estadio": "AL WAKRAH",
+        "partida": "1E x 2F",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 4,
+        "rodada": "Oitavas de final 4",
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "16:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "1G x 2H",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 5,
+        "rodada": "Oitavas de final 5",
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "1B x 2A",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 6,
+        "rodada": "Oitavas de final 6",
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "1D x 2C",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 7,
+        "rodada": "Oitavas de final 7",
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "1F x 2E",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 8,
+        "rodada": "Oitavas de final 8",
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "1H x 2G",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 9,
+        "rodada": "Quartas de final 1",
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "Venc. O1 x Venc. O2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 10,
+        "rodada": "Quartas de final 2",
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "Venc. O3 x Venc. O4",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 11,
+        "rodada": "Quartas de final 3",
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "Venc. O5 x Venc. O6",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 12,
+        "rodada": "Quartas de final 4",
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "Venc. O7 x Venc. O8",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 13,
+        "rodada": "Semi final 1",
+        "diaSemana": "TER",
+        "data": "13/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "Venc. Q1 x Venc. Q2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 14,
+        "rodada": "Semi final 2",
+        "diaSemana": "QUA",
+        "data": "14/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "Venc. Q3 x Venc. Q4",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 15,
+        "rodada": "Terceiro lugar",
+        "diaSemana": "SÁB",
+        "data": "17/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "Perd. S1 x Perd. S2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "id": 16,
+        "rodada": "Final",
+        "diaSemana": "DOM",
+        "data": "18/12/2022",
+        "hora": "12:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "Venc. S1 x Venc. S2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    }
+]

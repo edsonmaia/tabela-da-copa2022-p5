@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600 400"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="401" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Bebas Neue">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="?" horiz-adv-x="362"><path d="M117 185l96.0007 0 0 37.9997c0,35.0001 14.0001,69.0004 57.0001,127 53.9995,72 72.9998,123 72.9998,183.999 0,112 -56.0002,176.001 -163,176.001 -107,0 -161,-64.0001 -161,-176.001l0 -68.9994 104 0 0 75.9994c0,50.0001 20.0002,69.0004 55.0004,69.0004 35.0001,0 54.9993,-19.0004 54.9993,-69.0004 0,-52.9996 -12.9992,-95.9996 -61.9994,-166 -43,-60.9995 -54.0005,-102 -54.0005,-147.999l0 -42.0002zm-4.99928 -185l105.999 0 0 106 -105.999 0 0 -106z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Bebas Neue";src:url("#FontID0") format(svg)}
+    .fil1 {fill:black}
+    .fil0 {fill:#E6E6E6}
+    .fnt0 {font-weight:normal;font-size:366.667px;font-family:'Bebas Neue'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="600" height="400"/>
+  <text x="234" y="330"  class="fil1 fnt0">?</text>
+ </g>
+</svg>
