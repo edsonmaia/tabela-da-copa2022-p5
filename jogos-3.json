@@ -6,10 +6,10 @@
         "diaSemana": "TER",
         "data": "29/11/2022",
         "hora": "12:00",
-        "estadio": "AL KHOR",
-        "partida": "HOL x CAT",
-        "mandante": "holanda.svg",
-        "visitante": "catar.svg"
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "EQU x SEN",
+        "mandante": "equador.svg",
+        "visitante": "senegal.svg"
     },
     {
         "id": 34,
@@ -18,25 +18,13 @@
         "diaSemana": "TER",
         "data": "29/11/2022",
         "hora": "12:00",
-        "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "EQU x SEN",
-        "mandante": "equador.svg",
-        "visitante": "senegal.svg"
+        "estadio": "AL KHOR",
+        "partida": "HOL x CAT",
+        "mandante": "holanda.svg",
+        "visitante": "catar.svg"
     },
     {
         "id": 35,
-        "grupo": "B",
-        "rodada": 3,
-        "diaSemana": "TER",
-        "data": "29/11/2022",
-        "hora": "16:00",
-        "estadio": "AL RAYYAN",
-        "partida": "EUR x ING",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "inglaterra.svg"
-    },
-    {
-        "id": 36,
         "grupo": "B",
         "rodada": 3,
         "diaSemana": "TER",
@@ -48,31 +36,19 @@
         "visitante": "estados_unidos.svg"
     },   
     {
-        "id": 37,
-        "grupo": "C",
+        "id": 36,
+        "grupo": "B",
         "rodada": 3,
-        "diaSemana": "QUA",
-        "data": "30/11/2022",
+        "diaSemana": "TER",
+        "data": "29/11/2022",
         "hora": "16:00",
-        "estadio": "PORTO DE DOHA",
-        "partida": "POL x ARG",
-        "mandante": "polonia.svg",
-        "visitante": "argentina.svg"
+        "estadio": "AL RAYYAN",
+        "partida": "GAL x ING",
+        "mandante": "pais_de_gales.svg",
+        "visitante": "inglaterra.svg"
     },
     {
-        "id": 38,
-        "grupo": "C",
-        "rodada": 3,
-        "diaSemana": "QUA",
-        "data": "30/11/2022",
-        "hora": "16:00",
-        "estadio": "NACIONAL DE LUSAIL",
-        "partida": "ARA x MEX",
-        "mandante": "arabia_saudita.svg",
-        "visitante": "mexico.svg"
-    },    
-    {
-        "id": 39,
+        "id": 37,
         "grupo": "D",
         "rodada": 3,
         "diaSemana": "QUA",
@@ -84,43 +60,43 @@
         "visitante": "franca.svg"
     },
     {
-        "id": 40,
+        "id": 38,
         "grupo": "D",
         "rodada": 3,
         "diaSemana": "QUA",
         "data": "30/11/2022",
         "hora": "12:00",
         "estadio": "AL WAKRAH",
-        "partida": "PL1 x DIN",
-        "mandante": "bandeira_padrao.svg",
+        "partida": "AUS x DIN",
+        "mandante": "australia.svg",
         "visitante": "dinamarca.svg"
     },
     {
+        "id": 39,
+        "grupo": "C",
+        "rodada": 3,
+        "diaSemana": "QUA",
+        "data": "30/11/2022",
+        "hora": "16:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "POL x ARG",
+        "mandante": "polonia.svg",
+        "visitante": "argentina.svg"
+    },
+    {
+        "id": 40,
+        "grupo": "C",
+        "rodada": 3,
+        "diaSemana": "QUA",
+        "data": "30/11/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "ARA x MEX",
+        "mandante": "arabia_saudita.svg",
+        "visitante": "mexico.svg"
+    },    
+    {
         "id": 41,
-        "grupo": "E",
-        "rodada": 3,
-        "diaSemana": "QUI",
-        "data": "01/12/2022",
-        "hora": "16:00",
-        "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "JAP x ESP",
-        "mandante": "japao.svg",
-        "visitante": "espanha.svg"
-    },
-    {
-        "id": 42,
-        "grupo": "E",
-        "rodada": 3,
-        "diaSemana": "QUI",
-        "data": "01/12/2022",
-        "hora": "16:00",
-        "estadio": "AL KHOR",
-        "partida": "PL2 x ALE",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "alemanha.svg"
-    },
-    {
-        "id": 43,
         "grupo": "F",
         "rodada": 3,
         "diaSemana": "QUI",
@@ -132,7 +108,7 @@
         "visitante": "belgica.svg"
     },
     {
-        "id": 44,
+        "id": 42,
         "grupo": "F",
         "rodada": 3,
         "diaSemana": "QUI",
@@ -144,31 +120,31 @@
         "visitante": "marrocos.svg"
     },
     {
+        "id": 43,
+        "grupo": "E",
+        "rodada": 3,
+        "diaSemana": "QUI",
+        "data": "01/12/2022",
+        "hora": "16:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "JAP x ESP",
+        "mandante": "japao.svg",
+        "visitante": "espanha.svg"
+    },
+    {
+        "id": 44,
+        "grupo": "E",
+        "rodada": 3,
+        "diaSemana": "QUI",
+        "data": "01/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "COS x ALE",
+        "mandante": "costa_rica.svg",
+        "visitante": "alemanha.svg"
+    },
+    {
         "id": 45,
-        "grupo": "G",
-        "rodada": 3,
-        "diaSemana": "SEX",
-        "data": "02/12/2022",
-        "hora": "16:00",
-        "estadio": "NACIONAL LUSAIL",
-        "partida": "CAM x BRA",
-        "mandante": "camaroes.svg",
-        "visitante": "brasil.svg"
-    },
-    {
-        "id": 46,
-        "grupo": "G",
-        "rodada": 3,
-        "diaSemana": "SEX",
-        "data": "02/12/2022",
-        "hora": "16:00",
-        "estadio": "PORTO DE DOHA",
-        "partida": "SER x SUI",
-        "mandante": "servia.svg",
-        "visitante": "suica.svg"
-    },
-    {
-        "id": 47,
         "grupo": "H",
         "rodada": 3,
         "diaSemana": "SEX",
@@ -180,7 +156,7 @@
         "visitante": "portugal.svg"
     },
     {
-        "id": 48,
+        "id": 46,
         "grupo": "H",
         "rodada": 3,
         "diaSemana": "SEX",
@@ -190,5 +166,29 @@
         "partida": "GAN x URU",
         "mandante": "gana.svg",
         "visitante": "uruguai.svg"
+    },
+    {
+        "id": 47,
+        "grupo": "G",
+        "rodada": 3,
+        "diaSemana": "SEX",
+        "data": "02/12/2022",
+        "hora": "16:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "SER x SUI",
+        "mandante": "servia.svg",
+        "visitante": "suica.svg"
+    },
+    {
+        "id": 48,
+        "grupo": "G",
+        "rodada": 3,
+        "diaSemana": "SEX",
+        "data": "02/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL LUSAIL",
+        "partida": "CAM x BRA",
+        "mandante": "camaroes.svg",
+        "visitante": "brasil.svg"
     }
 ]

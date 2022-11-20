@@ -1,6 +1,18 @@
 [
     {
         "id": 17,
+        "grupo": "B",
+        "rodada": 2,
+        "diaSemana": "SEX",
+        "data": "25/11/2022",
+        "hora": "07:00",
+        "estadio": "AL RAYYAN",
+        "partida": "GAL x IRA",
+        "mandante": "pais_de_gales.svg",
+        "visitante": "ira.svg"
+    },
+    {
+        "id": 18,
         "grupo": "A",
         "rodada": 2,
         "diaSemana": "SEX",
@@ -12,7 +24,7 @@
         "visitante": "senegal.svg"
     },
     {
-        "id": 18,
+        "id": 19,
         "grupo": "A",
         "rodada": 2,
         "diaSemana": "SEX",
@@ -22,18 +34,6 @@
         "partida": "HOL x EQU",
         "mandante": "holanda.svg",
         "visitante": "equador.svg"
-    },
-    {
-        "id": 19,
-        "grupo": "B",
-        "rodada": 2,
-        "diaSemana": "SEX",
-        "data": "25/11/2022",
-        "hora": "07:00",
-        "estadio": "AL RAYYAN",
-        "partida": "EUR x IRA",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "ira.svg"
     },
     {
         "id": 20,
@@ -46,9 +46,21 @@
         "partida": "ING x EUA",
         "mandante": "inglaterra.svg",
         "visitante": "estados_unidos.svg"
-    },   
+    },
     {
         "id": 21,
+        "grupo": "D",
+        "rodada": 2,
+        "diaSemana": "SÁB",
+        "data": "26/11/2022",
+        "hora": "07:00",
+        "estadio": "AL WAKRAH",
+        "partida": "TUN x AUS",
+        "mandante": "tunisia.svg",
+        "visitante": "australia.svg"
+    },
+    {
+        "id": 22,
         "grupo": "C",
         "rodada": 2,
         "diaSemana": "SÁB",
@@ -60,31 +72,7 @@
         "visitante": "arabia_saudita.svg"
     },
     {
-        "id": 22,
-        "grupo": "C",
-        "rodada": 2,
-        "diaSemana": "SÁB",
-        "data": "26/11/2022",
-        "hora": "16:00",
-        "estadio": "NACIONAL DE LUSAIL",
-        "partida": "ARG x MEX",
-        "mandante": "argentina.svg",
-        "visitante": "mexico.svg"
-    },    
-    {
         "id": 23,
-        "grupo": "D",
-        "rodada": 2,
-        "diaSemana": "SÁB",
-        "data": "26/11/2022",
-        "hora": "07:00",
-        "estadio": "AL WAKRAH",
-        "partida": "TUN x PL1",
-        "mandante": "tunisia.svg",
-        "visitante": "bandeira_padrao.svg"
-    },
-    {
-        "id": 24,
         "grupo": "D",
         "rodada": 2,
         "diaSemana": "SÁB",
@@ -96,6 +84,18 @@
         "visitante": "dinamarca.svg"
     },
     {
+        "id": 24,
+        "grupo": "C",
+        "rodada": 2,
+        "diaSemana": "SÁB",
+        "data": "26/11/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "ARG x MEX",
+        "mandante": "argentina.svg",
+        "visitante": "mexico.svg"
+    },    
+    {
         "id": 25,
         "grupo": "E",
         "rodada": 2,
@@ -103,24 +103,12 @@
         "data": "27/11/2022",
         "hora": "07:00",
         "estadio": "AL RAYYAN",
-        "partida": "JAP x PL2",
+        "partida": "JAP x COS",
         "mandante": "japao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "visitante": "costa_rica.svg"
     },
     {
         "id": 26,
-        "grupo": "E",
-        "rodada": 2,
-        "diaSemana": "DOM",
-        "data": "27/11/2022",
-        "hora": "16:00",
-        "estadio": "AL KHOR",
-        "partida": "ESP x ALE",
-        "mandante": "espanha.svg",
-        "visitante": "alemanha.svg"
-    },
-    {
-        "id": 27,
         "grupo": "F",
         "rodada": 2,
         "diaSemana": "DOM",
@@ -132,7 +120,7 @@
         "visitante": "marrocos.svg"
     },
     {
-        "id": 28,
+        "id": 27,
         "grupo": "F",
         "rodada": 2,
         "diaSemana": "DOM",
@@ -142,6 +130,18 @@
         "partida": "CRO x CAN",
         "mandante": "croacia.svg",
         "visitante": "canada.svg"
+    },
+    {
+        "id": 28,
+        "grupo": "E",
+        "rodada": 2,
+        "diaSemana": "DOM",
+        "data": "27/11/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "ESP x ALE",
+        "mandante": "espanha.svg",
+        "visitante": "alemanha.svg"
     },
     {
         "id": 29,
@@ -157,18 +157,6 @@
     },
     {
         "id": 30,
-        "grupo": "G",
-        "rodada": 2,
-        "diaSemana": "SEG",
-        "data": "28/11/2022",
-        "hora": "13:00",
-        "estadio": "PORTO DE DOHA",
-        "partida": "BRA x SUI",
-        "mandante": "brasil.svg",
-        "visitante": "suica.svg"
-    },
-    {
-        "id": 31,
         "grupo": "H",
         "rodada": 2,
         "diaSemana": "SEG",
@@ -178,6 +166,18 @@
         "partida": "COR x GAN",
         "mandante": "coreia_do_sul.svg",
         "visitante": "gana.svg"
+    },
+    {
+        "id": 31,
+        "grupo": "G",
+        "rodada": 2,
+        "diaSemana": "SEG",
+        "data": "28/11/2022",
+        "hora": "13:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "BRA x SUI",
+        "mandante": "brasil.svg",
+        "visitante": "suica.svg"
     },
     {
         "id": 32,

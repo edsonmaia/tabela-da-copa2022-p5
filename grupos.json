@@ -11,7 +11,7 @@
         "selecao1": ["inglaterra.svg", "Inglaterra", "ING"],
         "selecao2": ["ira.svg", "Irã", "IRA"],
         "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA"],
-        "selecao4": ["escudo_default.png", "País de Gales/Escócia/Ucrânia", "EUR"]
+        "selecao4": ["pais_de_gales.svg", "País de Gales", "GAL"]
     },
     {
         "grupo": "C",
@@ -23,14 +23,14 @@
     {
         "grupo": "D",
         "selecao1": ["dinamarca.svg", "Dinamarca", "DIN"],
-        "selecao2": ["escudo_default.png", "Emirados Árabes ou Austrália ou Peru", "PL1"],
+        "selecao2": ["australia.svg", "Austrália", "AUS"],
         "selecao3": ["franca.svg", "França", "FRA"],
         "selecao4": ["tunisia.svg", "Tunísia", "TUN"]
     },
     {
         "grupo": "E",
         "selecao1": ["alemanha.svg", "Alemanha", "ALE"],
-        "selecao2": ["escudo_default.png", "Costa Rica ou Nova Zelândia", "PL2"],
+        "selecao2": ["costa_rica.svg", "Costa Rica", "COS"],
         "selecao3": ["espanha.svg", "Espanha", "ESP"],
         "selecao4": ["japao.svg", "Japão", "JAP"]
     },
